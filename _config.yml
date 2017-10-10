@@ -214,7 +214,8 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
   #LinkLabel: Link
-
+  GitHub: https://github.com/jpasholk
+  Twitter: https://twitter.com/jpasholk
 
 # Social Links Icons
 # Icon Mapping:
@@ -225,8 +226,8 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github https://github.com/jpasholk
-  Twitter: twitter https://twitter.com/jpasholk
+  GitHub: github
+  Twitter: twitter
   Weibo: weibo
 
 
