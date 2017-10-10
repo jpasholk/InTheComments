@@ -225,8 +225,8 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github jpasholk
-  Twitter: twitter jpasholk
+  GitHub: github https://github.com/jpasholk
+  Twitter: twitter https://twitter.com/jpasholk
   Weibo: weibo
 
 
