@@ -11,7 +11,7 @@ tags: [woodworking, reddit]
 
 This diagram will show you the optimal heights of common pieces of furniture. While it isn't necessarily a how-to for building your own furniture, it certainly helps enthusiasts with a starting point.
 
-The most crucial dimension of a piece if the height, this reference guide has pretty much all you'd need to start building some rough drafts. If thats your thing...
+The most crucial dimension of a piece is the height, this reference guide has pretty much all you'd need to start building some rough drafts. If thats your thing...
 
 Not that there is anything wrong with you if it isn't.
 
