@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Car buying advice from Redditors"
+title: "Car buying advice from strangers"
 description: "Never expect a deal"
 tags: [life-pro-tips, reddit]
 ---
