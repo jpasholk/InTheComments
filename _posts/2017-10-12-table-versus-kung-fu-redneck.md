@@ -12,3 +12,5 @@ tags: [idiotsfightingthings, reddit, funny]
 There are literally no words.
 
 None.
+
+[Source](https://redd.it/75wcmb)
