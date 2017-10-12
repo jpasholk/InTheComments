@@ -2,7 +2,7 @@
 layout: post
 title: "Table versus Kung-fu Redneck"
 description: "It's Trevor from GTA's little but methier brother. "
-tags: [idiotsfightingthings, reddit]
+tags: [idiotsfightingthings, reddit, funny]
 ---
 
 ## Redneck drunken monkey kung-fu master
