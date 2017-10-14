@@ -2,7 +2,7 @@
 layout: post
 title: "Bears control Russia"
 description: "Yes, you read that right."
-tags: [provemyfaketheory, reddit]
+tags: [provemyfaketheory, reddit, funny]
 ---
 
 ## It all makes so much sense now
