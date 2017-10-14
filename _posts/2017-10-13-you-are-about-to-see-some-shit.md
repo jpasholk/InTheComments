@@ -9,7 +9,7 @@ tags: [TIL, reddit, funny]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJm-4v9qbEU" frameborder="0" allowfullscreen></iframe>
 
-In a thread about why dogs look at their owners when they poop, a comment chain devolves into someone linking a video of an actual sled dod pooping while running.
+In a thread about why dogs look at their owners when they poop, a comment chain devolves into someone linking a video of an actual sled dog pooping while running.
 
 If this isn't a Reddit wtf moment I don't know what is.
 
