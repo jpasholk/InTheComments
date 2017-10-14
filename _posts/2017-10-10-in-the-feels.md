@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Matador realizes error of his ways"
-description: "Goes on to become an avid opponent of bullfights"
+description: "Goes on to become an avid opponent of bullfights."
 tags: [tumblr, reddit]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Table versus Kung-fu Redneck"
-description: "It's Trevor from GTA's little but methier brother. "
+description: "It's Trevor from GTA."
 tags: [idiotsfightingthings, reddit, funny]
 ---
 

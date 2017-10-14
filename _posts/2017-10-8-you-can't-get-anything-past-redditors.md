@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "You can't get anything past Redditors"
-description: "Guy posts to /r/technology, gets roasted for advertising"
+description: "Guy posts to /r/technology, gets roasted for advertising."
 tags: [reddit, funny]
 ---
 

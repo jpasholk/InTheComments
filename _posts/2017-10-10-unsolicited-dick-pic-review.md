@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Girl gets first unsolicited dick-pic, reviews it"
-description: "She didn't hear back"
+description: "She didn't hear back."
 tags: [creepypms, reddit, funny]
 ---
 

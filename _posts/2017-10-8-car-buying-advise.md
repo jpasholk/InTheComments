@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Car buying advice from strangers"
-description: "Never expect a deal"
+description: "Never expect a deal."
 tags: [life-pro-tips, reddit]
 ---
 
@@ -11,13 +11,12 @@ Also, a lot of dealerships will offer zero percent interest when purchasing a ne
 
 ## Come with a loan, but be open to a better deal
 
-[One guy says](https://www.reddit.com/r/LifeProTips/comments/74u61l/lpt_get_your_auto_loans_from_credit_unions_or/do148ca/) to come with a loan, but let the dealer get a better one if possible:
+One guy says to come with a loan, but let the dealer get a better one if possible:
 
-> Come with a loan already approved but still let the dealer arrange a loan for you. Sometimes the dealer can get you a better rate than your own bank/union.
+<div class="reddit-embed" data-embed-media="www.redditmedia.com" data-embed-parent="false" data-embed-live="false" data-embed-uuid="b6187a05-a65a-46dc-8f61-88a3a279ed66" data-embed-created="2017-10-14T14:55:24.108Z"><a href="https://www.reddit.com/r/LifeProTips/comments/74u61l/lpt_get_your_auto_loans_from_credit_unions_or/do148ca/">Comment</a> from discussion <a href="https://www.reddit.com/r/LifeProTips/comments/74u61l/lpt_get_your_auto_loans_from_credit_unions_or/">LPT: Get your auto loans from credit unions or banks. Never let the person selling you the car arrange your financing for you.</a>.</div><script async src="https://www.redditstatic.com/comment-embed.js"></script>
 
-Another guy [flat out says](https://www.reddit.com/r/LifeProTips/comments/74u61l/lpt_get_your_auto_loans_from_credit_unions_or/do1a1ua/) that this is bad advise and dealerships can ‘almost always’ give you the best rate:
+Another guy flat out says that this is bad advise and dealerships can ‘almost always’ give you the best rate:
 
-> Bad advice. Dealerships can almost always beat your rate. It’s good to come with one in hand though.
-What about new cars? Are you going to refuse 0%?
+<div class="reddit-embed" data-embed-media="www.redditmedia.com" data-embed-parent="false" data-embed-live="false" data-embed-uuid="5c124ca1-62b1-458f-8e98-a564f29c1e59" data-embed-created="2017-10-14T14:56:06.561Z"><a href="https://www.reddit.com/r/LifeProTips/comments/74u61l/lpt_get_your_auto_loans_from_credit_unions_or/do1a1ua/">Comment</a> from discussion <a href="https://www.reddit.com/r/LifeProTips/comments/74u61l/lpt_get_your_auto_loans_from_credit_unions_or/">LPT: Get your auto loans from credit unions or banks. Never let the person selling you the car arrange your financing for you.</a>.</div><script async src="https://www.redditstatic.com/comment-embed.js"></script>
 
 It seems that this might be a good recommendation for buying a used car, but most likely not for a new one. Your best bet is not to expect someone to give you a deal.
