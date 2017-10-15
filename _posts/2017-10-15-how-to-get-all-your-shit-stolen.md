@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to get all your shit stolen when you travel"
-description: Just leave it all in your car!
+description: "Just leave it all in your car!"
 tags: [reddit, life-pro-tips]
 ---
 
