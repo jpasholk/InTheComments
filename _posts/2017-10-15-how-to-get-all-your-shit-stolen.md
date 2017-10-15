@@ -3,6 +3,7 @@ layout: post
 title: "How to get all your shit stolen when you travel"
 description: "Just leave it all in your car!"
 tags: [reddit, life-pro-tips]
+date: "2017-10-15 6:09:18 -0700"
 ---
 
 ## Sometimes, common sense is lost on people
