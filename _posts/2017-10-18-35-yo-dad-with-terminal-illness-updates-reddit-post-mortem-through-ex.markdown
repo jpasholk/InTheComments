@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "35 y/o Dad with terminal illness, updates Reddit post mortem through ex"
+title: "35 y/o Dad with terminal illness, updates Reddit post-mortem through ex"
 description: "Someone is cutting onions in that thread..."
 date: "2017-10-18 07:20:41 -0700"
 tags: [reddit, best-of, parenting]
