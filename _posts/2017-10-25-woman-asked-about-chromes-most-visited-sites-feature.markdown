@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Woman asks about Chrome's 'most visited sites' feature"
+title: "Woman posts question about Chrome's 'most visited sites' feature"
 description: "800 plus Redditors proceed to play wingman."
 date: "2017-10-25 07:59:33 -0700"
 tags: [reddit, ask-reddit, funny]
