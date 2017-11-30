@@ -3,7 +3,7 @@ layout: post
 title: "It's because of the meth, isn't it?"
 description: "Nah bro, I Just wasn't feeling it..."
 date: "2017-11-03 07:11:25 -0700"
-tags: [reddit, askreddit]
+tags: [reddit, ask-reddit]
 ---
 
 ## Woman goes on date, guy smokes meth, she proceeds to nope the fuck out
